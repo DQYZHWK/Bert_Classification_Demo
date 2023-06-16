@@ -1,0 +1,5 @@
+ERNIE_pretrain/
+__pycache__/
+bert_pretrain/
+pytorch_pretrained/
+THUCNews/
